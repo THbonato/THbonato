@@ -9,7 +9,6 @@
 ---
 
 ### 🚀 Sobre mim
-- 💻 Apaixonado por programação  
 - 📚 Estudando Java, HTML, CSS, C++, Python, JavaScript, MySQL, ... 
 - 🎯 Objetivo: crescer na área de tecnologia  
 
